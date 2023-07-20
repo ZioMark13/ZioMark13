@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦝 About Me:
 🔭 I’m currently working on **Outlaws Roleplay** and **Destiny 2 Italia**<br>👯 I’m looking to collaborate on **Outlaws Roleplay**<br>🤝 I’m looking for help with **Bungie API**<br>🌱 I’m currently learning Bungie API (Destiny 2)<br>💬 Ask me about **HTML, CSS, JS, PHP, LUA, RedM, FiveM**
 
 
