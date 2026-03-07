@@ -1,5 +1,5 @@
 # 🦝 About Me:
-🔭 I’m the CEO of **GoVisionary**, **Marckware** and **ZioMark's HUB**, an i'm currently working on **RedM Scripting** and **Fullstack Development** in general<br>👯 I’m looking to collaborate on **ZioMark's HUB** projects <br>🤝 I’m looking for help with **AI Development**<br>💬 Ask me about **HTML, CSS, JS, PHP, LUA, RedM, FiveM, Discord Bot Development**
+🔭 I’m the CEO of **GoVisionary**, **Marckware** and founder of the **ZioMark's HUB** community, an i'm currently working on **RedM Scripting** and **Fullstack Development** in general<br>👯 I’m looking to collaborate on **ZioMark's HUB** projects <br>🤝 I’m looking for help with **AI Development**<br>💬 Ask me about **HTML, CSS, JS, PHP, LUA, RedM, FiveM, Discord Bot Development**
 
 ## Join ZioMark's HUB
 ![Discord Banner 2](https://discordapp.com/api/guilds/716696767407718493/widget.png?style=banner2)
